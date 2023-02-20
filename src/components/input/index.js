@@ -1,6 +1,6 @@
 
 
-const App = () => {
+const Input = () => {
   return (
     <div className="App">
       Olá
@@ -8,4 +8,4 @@ const App = () => {
   );
 }
 
-export default App;
+export default Input;
